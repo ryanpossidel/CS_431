@@ -1,0 +1,7 @@
+set(a, 6 / 4). { 1
+print(-4 \3). { -1.333...
+set(bad, { ugly!}get("something's negative:")).
+set(c, a + good * ((7- 2) %3)).
+print((a + a + a + -A) * b).
+print(+23.4). &#
+{ end
