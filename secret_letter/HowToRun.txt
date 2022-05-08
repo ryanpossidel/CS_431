@@ -1,0 +1,3 @@
+Go to /Users/Ryan/.cargo/bin/hello-rust/src/main.rs
+cargo run
+cargo build if you add more crates
