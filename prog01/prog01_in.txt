@@ -1,0 +1,11 @@
+b is -5 #first comment
+v is b+ 4
+print v
+z Ccbaker'scC73
+a b C++ is cool#that's big C
+printing -x+-4is
+Ccdozen wcC d Ccno-end
+print c C Cchere's a dog cC 16
+Cc #comment in comment cC
+`~!@$%^&*()_[]{};':",./<>?
+Cc2cC in Cc1 linecC #another Cc inside cC trick
